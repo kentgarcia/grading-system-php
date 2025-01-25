@@ -1,0 +1,16 @@
+#sidebar {
+  background-color: #7C0E08;
+  color: white;
+}
+
+#sidebar a {
+  color: white;
+}
+
+#sidebar a:hover {
+  color: #ddd;
+}
+
+#sidebar h2 {
+  color: white;
+}
